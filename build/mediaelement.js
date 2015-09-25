@@ -2016,3 +2016,5 @@ window.MediaElement = mejs.MediaElement;
     }
 
 }(mejs.i18n.locale.strings));
+
+module.exports = mejs.MediaElement;
